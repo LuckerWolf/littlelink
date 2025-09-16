@@ -631,3 +631,31 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+/* Added by LuckerWolf
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button-howlongtobeat {
+    --button-text:#FFFFFF;
+    --button-background:#000000;
+    --button-border:1px solid #FFFFFF;
+}
+
+
+
+/* Gamer Tags
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Epic Games */
+.button-epicgames {
+    --button-text:#FFFFFF;
+    --button-background:#000000;
+    --button-border:1px solid #FFFFFF;
+}
+.button-electronicarts {
+    --button-text:#ffffff;
+    --button-background:#FF4545;
+}
+/* Obsidian */
+.button.button-ubisoft {
+    --button-text:#ffffff;
+    --button-background:#262626;
+    --button-border:1px solid #ffffff;
+}
