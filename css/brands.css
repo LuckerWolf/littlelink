@@ -639,6 +639,13 @@
     --button-border:1px solid #FFFFFF;
 }
 
+.button-nexus-mods {
+    --button-text:#000000;
+    --button-background:#FFFFFF;
+    --button-border:1px solid #000000;
+}
+
+
 /* Gamer Tags
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Epic Games */
