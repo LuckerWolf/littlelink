@@ -633,28 +633,26 @@
 }
 /* Added by LuckerWolf
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.button-howlongtobeat {
+.button-how-long-to-beat {
     --button-text:#FFFFFF;
     --button-background:#000000;
     --button-border:1px solid #FFFFFF;
 }
-
-
 
 /* Gamer Tags
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Epic Games */
-.button-epicgames {
+.button-epic-games {
     --button-text:#FFFFFF;
     --button-background:#000000;
     --button-border:1px solid #FFFFFF;
 }
-.button-electronicarts {
+.button-electronic-arts {
     --button-text:#ffffff;
     --button-background:#FF4545;
 }
 /* Obsidian */
-.button.button-ubisoft {
+.button-ubisoft {
     --button-text:#ffffff;
     --button-background:#262626;
     --button-border:1px solid #ffffff;
